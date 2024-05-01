@@ -1,0 +1,25 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "web",
+      "site": "https://sinaseylani.github.io"
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.passage.example_android",
+      "sha256_cert_fingerprints": [
+        "76:78:20:F7:3E:F2:C4:F3:A3:EF:99:65:29:1F:1A:92:60:DB:BC:6F:00:AD:8E:EB:C0:0D:19:C8:5A:ED:90:3F"
+      ]
+    }
+  }
+]
