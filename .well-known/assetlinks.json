@@ -16,7 +16,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "id.passage.example_android",
+      "package_name": "id.passage.passage_flutter",
       "sha256_cert_fingerprints": [
         "D4:97:42:3E:97:E8:BB:05:A3:4E:28:C4:7D:45:84:90:A0:07:B4:47:D9:40:16:2C:58:64:16:AC:9D:11:D2:E2"
       ]
