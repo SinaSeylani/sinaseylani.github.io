@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LKQWMG6BWA.id.passage.example_flutter",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "LKQWMG6BWA.id.passage.example_flutter"
+    ]
+  }
+}
