@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "LKQWMG6BWA.id.passage.flutter-example",
+        "appID": "LKQWMG6BWA.id.passage.example-flutter",
         "paths": [
           "*"
         ]
@@ -12,7 +12,7 @@
   },
   "webcredentials": {
     "apps": [
-      "LKQWMG6BWA.id.passage.flutter-example"
+      "LKQWMG6BWA.id.passage.example-flutter"
     ]
   }
 }
