@@ -3,16 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "LKQWMG6BWA.id.passage.example-flutter",
-        "paths": [
-          "*"
-        ]
+        "appID": "LKQWMG6BWA.id.test.test",
+        "paths": [ "/universal-link-path/*" ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "LKQWMG6BWA.id.passage.example-flutter"
     ]
   }
 }
